@@ -6,4 +6,4 @@ return (
     <h1 className="aboutMeh2">{parse(post.title.rendered)}</h1>
     {parse(post.content.rendered)}
 </article>
-)}
+)};
