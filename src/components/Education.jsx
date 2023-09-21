@@ -25,7 +25,8 @@ export default function Edu(){
             <h1>Bachellor i webudvikling - EAAA</h1>
             <p className="yearP">2024 - </p>
             <section>
-            <p>Efter jeg er færdig som multimediedesigner, vil jeg tage en bachellor i webudvikling.
+            <p>Når jeg er færdig som multimediedesigner, vil jeg tage en bachellor i webudvikling.
+                Dette er en 1.5 årig uddannelse, hvor jeg vil lære mere omkring frontend-udvikling.
             </p>
             </section>
             <br/>

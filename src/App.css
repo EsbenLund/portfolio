@@ -186,6 +186,7 @@ body {
   padding-bottom: 1rem;
 }
 .mainHeaderWork {
+  margin-top: 0.5rem;
   font-size: 2rem;
   line-height: 2rem;
   margin-bottom: 1rem;
@@ -297,8 +298,8 @@ body {
   max-width: 500px;
 }
 .menu{
-  margin-top: 0.5rem;
-  width: 40%;
+  margin-top: 0.2rem;
+  width: 50%;
 }
 .menu a{
   text-align: start;
@@ -320,6 +321,7 @@ font-weight: 700;
 margin-bottom: 1rem;
 }
 .aboutMep{
+  margin-top: 0.5rem;
 line-height: 1.5rem;
 text-align: start;
 }

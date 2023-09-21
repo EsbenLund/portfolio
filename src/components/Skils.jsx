@@ -5,7 +5,8 @@ export default function Skills(){
     return(
         <div id="skills" className="skilldiv">
             <h1 className="skillsH1">Mine færdigheder</h1>
-            <p>Under min uddannelse har jeg primært arbejdet med disse forskellige værktøjer.</p>
+            <p>Under min uddannelse har jeg arbejdet med en masse forskellige værktøjer.
+                Heriblandt React, JavaScipt, CSS og Figma.</p>
             <img className="skillImg" src="./html5.png" alt="HTML5"/>
             <img className="skillImg" src="./css.png" alt="CSS3"/>
             <img className="skillImg" src="./js.png" alt="Javascript"/>
