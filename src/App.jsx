@@ -29,17 +29,17 @@ function App() {
     <Loading>
       <main className="container">
         <section className="left-section">
-          <article>
-            {posts.map(post => (
-            <AboutMe key={post.id} post={post}/>
-            
-            ))}
-            <ProfilImg />
-          </article>
+          <ProfilImg />
           <Menu />
           <Footer />
         </section>
         <section className="right-section">
+        <article>
+            {posts.map(post => (
+            <AboutMe key={post.id} post={post}/>
+            
+            ))}
+          </article>
           <Projects />
           <Skills />
           <WorkExperience />
