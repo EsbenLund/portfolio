@@ -301,6 +301,9 @@ body {
   margin-top: 0.2rem;
   width: 100%;
 }
+.menu a:hover{
+  background-color:#179ee7df;
+}
 .menu a{
   text-align: start;
   display: grid;
@@ -311,7 +314,7 @@ body {
 }
 .menu a.active{
   color:  #179ee7df;
-  text-transform:uppercase;
+  
 }
 .aboutMeh2{
 font-size: 2rem;
