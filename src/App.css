@@ -261,7 +261,7 @@ body {
   }
   .projectImg{
     height: auto;
-    width: 300px;
+    width: 100%;
   }
 }
 .skillsH1 {
@@ -302,7 +302,7 @@ body {
   width: 100%;
 }
 .menu a:hover{
-  color:#179ee7df;
+  background-color:#179ee7df;
 }
 .menu a{
   text-align: start;
