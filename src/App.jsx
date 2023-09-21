@@ -8,7 +8,7 @@ import Edu from './components/Education';
 import Menu from './components/Menu';
 import ProfilImg from './components/ProfilImg';
 import './App.css';
-import AboutMe from './components/Aboutme';
+import AboutMe from './components/AboutMe';
 
 
 function App() {
