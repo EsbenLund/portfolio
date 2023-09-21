@@ -302,7 +302,7 @@ body {
   width: 100%;
 }
 .menu a:hover{
-  background-color:#179ee7df;
+  color:#179ee7df;
 }
 .menu a{
   text-align: start;
