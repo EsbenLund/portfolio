@@ -21,10 +21,10 @@ function Menu() {
 
   return (
     <nav className="menu">
-      <a href="#projects">-Projekter</a>
-      <a href="#skills">-Færdigheder</a>
-      <a href="#workExperience">-Erhvervserfaring</a>
-      <a href="#education">-Uddannelse</a>
+      <a href="#projects">Projekter</a>
+      <a href="#skills">Færdigheder</a>
+      <a href="#workExperience">Erhvervserfaring</a>
+      <a href="#education">Uddannelse</a>
     </nav>
   );
 }

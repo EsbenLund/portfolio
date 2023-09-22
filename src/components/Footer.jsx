@@ -22,6 +22,7 @@ links.onclick = function (event){
 }, []);
     return(
         <footer id="footerId">
+            <h2>Kontakt mig her</h2>
             <section>
                <img className="contactImg" src="./linkedin.png" id="linkedin" alt="Linkedin logo, som linker til min profil"/>
             </section>
