@@ -9,6 +9,8 @@ import Menu from './components/Menu';
 import ProfilImg from './components/ProfilImg';
 import './App.css';
 import AboutMe from './components/AboutMe';
+import Typewriter from './components/typewriter';
+
 
 
 function App() {
@@ -20,16 +22,15 @@ function App() {
       setPosts(data);
     }
     getData();
-
-    
-
   }, []); //denne post bliver kun rendered 1 gang
   
   return (
     <Loading>
       <main className="container">
         <section className="left-section">
+
           <ProfilImg />
+          <Typewriter />
           <Menu />
           <Footer />
         </section>

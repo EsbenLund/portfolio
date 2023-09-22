@@ -1,4 +1,6 @@
+
 export default function Projects(){
+   
     return(
         <article id="projects" className="workText">
         <h1 className="mainHeaderWork">Projekter</h1>

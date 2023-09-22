@@ -1,6 +1,8 @@
 
 export default function WorkExperience(){
+
     return (
+        
         <article id="workExperience" className="workText">
             <h1 className="mainHeaderWork">Erhvervserfaring</h1>
             <div className="workBox">
@@ -38,8 +40,8 @@ export default function WorkExperience(){
                     I dette job har jeg kørt stort set hele Midt- og Nordjylland tyndt for at levere måltidskasser. 
                     I ca 5-6 måneder arbejdede jeg omkring 70 timer om ugen.</p>
                 </section>
-            </div>
-            
+            </div> 
         </article>
+        
     )
 }; 
